@@ -4,6 +4,7 @@ from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 import base64
 import csv
+import os
 
 # === Gmail API Email Sending Function ===
 def send_email_via_gmail(subject, body, recipient):
@@ -35,13 +36,16 @@ def read_recipients_from_csv(filename):
 
 # === Read content from file ===
 def read_content_from_file(filename):
-    with open(filename, "r") as file:
+    with open(filename, "r", encoding="utf-8") as file:
         return file.read()
 
 # === Convert image to base64 ===
 def get_base64_image(image_path):
-    with open(image_path, "rb") as img_file:
-        return base64.b64encode(img_file.read()).decode()
+    if os.path.exists(image_path):
+        with open(image_path, "rb") as img_file:
+            return base64.b64encode(img_file.read()).decode()
+    else:
+        return ""
 
 # === Streamlit UI ===
 st.set_page_config(
@@ -51,28 +55,12 @@ st.set_page_config(
     initial_sidebar_state='collapsed'
 )
 
-# Set your image path
-image_path = "Screenshot (907).png"
-base64_bg = get_base64_image(image_path)
-
-# === Background Image Styling ===
-st.markdown(
-    f"""
-    <style>
-    .stApp {{
-        background-image: url('data:image/png;base64,{base64_bg}');
-        background-size: cover;
-        background-position: center;
-    }}
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+# OPTIONAL BACKGROUND IMAGE — skip if not needed
 
 st.header("Generate & Send Emails 📧")
 
-# Load default content from file
-form_content_file = r"C:\Users\ayush\OneDrive\Desktop\langchaain projects\Email Generator App - Source Code\mail text"
+# ✅ Use relative path for deployment
+form_content_file = "email_template.txt"
 default_text = read_content_from_file(form_content_file)
 
 # Prefill the text area with editable content
@@ -83,7 +71,7 @@ with col1:
     email_sender = st.text_input('Sender Name')
     email_subject = st.text_input('Email Subject')
 with col2:
-    email_csv_file = r"C:/Users/ayush/OneDrive/Desktop/langchaain projects/Email Generator App - Source Code/emails.csv"
+    email_csv_file = "emails.csv"  # must also be in repo
     email_recipients = read_recipients_from_csv(email_csv_file)
     email_style = st.selectbox(
         'Writing Style',
@@ -91,7 +79,7 @@ with col2:
         index=0
     )
 
-# Initialize session state if not already
+# Session state to track email generation
 if "email_body" not in st.session_state:
     st.session_state.email_body = ""
 if "email_ready" not in st.session_state:
@@ -104,7 +92,7 @@ if st.button("Generate Email"):
 
 if st.session_state.email_ready:
     st.markdown("**Preview:**")
-    st.write(st.session_state.email_body)
+    st.markdown(f"<div class='email-preview'>{st.session_state.email_body}</div>", unsafe_allow_html=True)
 
     if st.button("Send Email via Gmail"):
         with st.spinner("Sending Email..."):
