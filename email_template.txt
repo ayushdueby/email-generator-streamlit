@@ -1,54 +1,42 @@
 Dear Hiring Manager,
-I hope you’re doing well.
 
-I am writing to express my interest in core Software Development Engineer positions at your organization. I bring hands‑on experience building high‑impact fintech solutions, scalable full‑stack products, and academic research achievements.
+I am excited to apply for Software Development Engineer roles at your organization. I bring hands-on experience delivering scalable fintech products, real-time full-stack platforms, and impactful research.
 
-Tech Stack: C++, Node.js, Next.js, React, TypeScript, MongoDB, Socket.IO, RESTful APIs, OAuth2/JWT, SQL, Real‑Time Systems, LLM Integration, Redis
+Core Skills:
+C++, Node.js, Next.js, React, TypeScript, MongoDB, Redis, Socket.IO, REST APIs, OAuth2/JWT, SQL, Real-Time Systems, LLM Integration
 
-Professional Experience & Impact
+Professional Experience:
+FNZ Group: Automated client onboarding for APAC/UK, building 100+ API integrations and backend workflows, reducing onboarding effort by 70%.
+Curtis Bank: Streamlined AI-powered workflows, decreasing manual work by 30% through advanced rule-chaining and reliability improvements.
 
-FNZ (Fintech Onboarding Systems): Contributed to enterprise‑grade client onboarding portals and “financial wizards” across APAC and the UK. Delivered over 100 API integrations and reusable backend workflows that reduced onboarding effort by 70% through end‑to‑end automation.
+Key Projects:
+Bidly – Real-Time Service Bidding Platform:
+Developed a full-stack Next.js + Node.js system with role-based dashboards, JWT-secured routes, and real-time updates using Socket.IO. Achieved <200ms API response times, auto-purged stale data with MongoDB TTL, and planned LLM-powered search.
 
-Curtis Bank (AI Workflow Enhancements): Implemented rule‑chaining logic to streamline AI‑driven workflows, cutting manual intervention by 30% and improving reliability in customer service processes.
+TradeLab – Stock Trading Simulation:
+Engineered a real-time trading app with live price feeds, instant P&L, atomic transaction flows, and Redis-powered caching to reduce API calls by 65%. Enabled <100ms dashboard loads, robust WebSocket updates, and secure authentication.
 
-Key Project – Bidly: Real‑Time Bidding Platform
+Select Achievements:
 
-Developed a full‑stack Next.js + Node.js application with role‑based dashboards for service providers and consumers.
+Best Employee Award at FNZ
 
-Authentication & Security: Integrated Clerk (OAuth2) with JWT tokens in HTTP‑only cookies to secure all routes and prevent session hijacking.
+1,000+ DSA problems solved
 
-High‑Performance APIs: Built 8+ RESTful endpoints for service posting, bidding, profile management, and offer acceptance—achieving <200 ms average response times under load.
+Mentored 300+ students (C++/DSA)
 
-Real‑Time Infrastructure: Engineered Socket.IO–based event streams for live job posts, bids, and acceptances with <1 s end‑to‑end latency.
+National RoboCup Jr. finalist, ISRO Space Kidz Challenge finalist
 
-DB Optimization: Designed MongoDB schemas with TTL indexing to auto‑purge expired services and stale bids (after 7 days), improving query speed by ~35%.
+Springer LNNS (Scopus) paper co-author on Parkinson’s detection via speech
 
-1:1 Chat: Laid the foundation for direct consumer‑provider messaging using socket rooms and event‑driven architecture.
+I am confident in C++, Node.js, React, REST API design, and scalable backend systems. I thrive in engineering-driven teams and am ready to contribute from day one.
 
-LLM Integration (Planned): Preparing to integrate OpenAI/Gemini for natural‑language service search (e.g., “Find a plumber near me this weekend”) and provider ranking.
-
-Select Achievements
-
-Best Employee Award at FNZ for technical excellence and collaboration.
-
-Solved 1,000+ DSA problems on leading platforms.
-
-Mentored 300+ students in C++ and data structures via live workshops and one‑on‑one coaching.
-
-Finalist in ISRO’s Space Kidz Challenge (real‑time rover dashboard).
-
-National‑level RoboCup Jr. finalist, felicitated by Dr. A.P.J. Abdul Kalam.
-
-Co‑author of a Springer LNNS (Scopus‑indexed) paper on Parkinson’s detection using speech signals.
-
-I’m proficient in C++, Node.js, React, REST API design, and SQL, with a strong grasp of SDLC, OOP principles, and scalable system design. I thrive in fast‑paced, engineering‑driven teams and am eager to contribute my skills to your next innovative project.
-
-Thank you for considering my application. I welcome the opportunity to discuss how I can drive impact as part of your SDE team.
+Thank you for your time. I look forward to discussing my fit for your SDE team.
 
 Best regards,
 Ayush Dubey
-ayushdubeymanu@gmail.com  
-+91-9560752808  
-Resume: https://drive.google.com/file/d/1eBH5vVLTvkFsYG0qDyToUDdSFBaOb7mM/view?usp=sharing
+ayushdubeymanu@gmail.com
++91-9560752808
+Resume: https://drive.google.com/file/d/1YfYFLnAHNhHUKdHZgunr29s8G9hOApps/view?usp=drive_link
 Linkedin: https://linkedin.com/in/ayush-dubey-399a1a231
 Leetcode: https://leetcode.com/u/ayushdubeymanu0786/
+
