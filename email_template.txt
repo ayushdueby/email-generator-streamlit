@@ -1,42 +1,49 @@
 Dear Hiring Manager,
 
-I am excited to apply for Software Development Engineer roles at your organization. I bring hands-on experience delivering scalable fintech products, real-time full-stack platforms, and impactful research.
+I’m excited to apply for Software Development Engineer roles at your organization. I bring hands-on experience shipping scalable fintech products, building real-time full-stack platforms, and contributing to applied research.
 
 Core Skills:
 C++, Node.js, Next.js, React, TypeScript, MongoDB, Redis, Socket.IO, REST APIs, OAuth2/JWT, SQL, Real-Time Systems, LLM Integration
 
 Professional Experience:
-FNZ Group: Automated client onboarding for APAC/UK, building 100+ API integrations and backend workflows, reducing onboarding effort by 70%.
-Curtis Bank: Streamlined AI-powered workflows, decreasing manual work by 30% through advanced rule-chaining and reliability improvements.
+FNZ Group — Automated client onboarding for APAC/UK, building 100+ API integrations and backend workflows, reducing onboarding effort by ~70%.
+Curtis Bank (via FNZ) — Streamlined AI-powered workflows with rule-chaining and reliability improvements, decreasing manual work by ~30%.
 
 Key Projects:
-Bidly – Real-Time Service Bidding Platform:
-Developed a full-stack Next.js + Node.js system with role-based dashboards, JWT-secured routes, and real-time updates using Socket.IO. Achieved <200ms API response times, auto-purged stale data with MongoDB TTL, and planned LLM-powered search.
 
-TradeLab – Stock Trading Simulation:
-Engineered a real-time trading app with live price feeds, instant P&L, atomic transaction flows, and Redis-powered caching to reduce API calls by 65%. Enabled <100ms dashboard loads, robust WebSocket updates, and secure authentication.
+Bidly — Real-Time Service Bidding Platform
+Full-stack Next.js + Node.js with role-based dashboards, JWT-secured routes, and Socket.IO for live updates. Achieved sub-200 ms API responses; implemented MongoDB TTL for auto-purging stale data; designed roadmap for LLM-powered search.
+
+TradeLab — Stock Trading Simulation
+Real-time trading app with live price feeds, instant P&L, atomic transaction flows, and Redis caching to cut API calls by ~65%. Delivered <100 ms dashboard loads, robust WebSocket updates, and secure auth.
+
+SwipeHire — Skills-First Job Matching Platform
+Tinder-style matching for candidates and recruiters with skills-tagged profiles, chat, and analytics. Built with Next.js + TypeScript, secure auth, and real-time notifications; designed scalable APIs and data models to support ML-driven candidate ranking.
 
 Select Achievements:
+• Best Employee Award at FNZ
+• 1,000+ DSA problems solved
+• Mentored 300+ students (C++/DSA)
+• National RoboCup Jr. finalist; ISRO Space Kidz Challenge finalist
+• Co-author, Springer LNNS (Scopus): Parkinson’s detection via speech
 
-Best Employee Award at FNZ
+I’m confident in C++, Node.js, React, REST API design, and building scalable backends. I thrive in engineering-driven teams and can contribute from day one.
 
-1,000+ DSA problems solved
+Thank you for your time—I’d love to discuss how I can add value to your SDE team.
 
-Mentored 300+ students (C++/DSA)
-
-National RoboCup Jr. finalist, ISRO Space Kidz Challenge finalist
-
-Springer LNNS (Scopus) paper co-author on Parkinson’s detection via speech
-
-I am confident in C++, Node.js, React, REST API design, and scalable backend systems. I thrive in engineering-driven teams and am ready to contribute from day one.
-
-Thank you for your time. I look forward to discussing my fit for your SDE team.
+Current CTC- 15LPA
+Required CTC- 22LPA
+total years of experience - 6 months
+Internship experience - 1y
+Notice period - 2 months
 
 Best regards,
 Ayush Dubey
 ayushdubeymanu@gmail.com
 +91-9560752808
-Resume: https://drive.google.com/file/d/1YfYFLnAHNhHUKdHZgunr29s8G9hOApps/view?usp=drive_link
-Linkedin: https://linkedin.com/in/ayush-dubey-399a1a231
-Leetcode: https://leetcode.com/u/ayushdubeymanu0786/
 
+Resume: https://drive.google.com/file/d/1YfYFLnAHNhHUKdHZgunr29s8G9hOApps/view?usp=drivesdk
+
+LinkedIn: https://linkedin.com/in/ayush-dubey-399a1a231
+
+LeetCode: https://leetcode.com/u/ayushdubeymanu0786/
