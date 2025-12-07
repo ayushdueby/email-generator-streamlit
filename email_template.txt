@@ -6,9 +6,9 @@ I have 8 months of experience at FNZ Group (FinTech), where I automated 70% of c
 
 I’ve built scalable real-time systems such as:
 
-Bidly — real-time bidding platform (Next.js, Node.js, Redis, Socket.IO) with sub-800 ms events and 40% reduced DB load.
+Bidly: real-time bidding platform (Next.js, Node.js, Redis, Socket.IO) with sub-800 ms events and 40% reduced DB load.
 
-SwipeHire — job-matching platform with <50 ms match detection using MongoDB compound indexes and Redis.
+SwipeHire: job-matching platform with <50 ms match detection using MongoDB compound indexes and Redis.
 
 I also mentored 300+ students (C++/DSA) with a 4.7/5 rating during my Coding Ninjas role.
 
