@@ -1,49 +1,59 @@
 Dear Hiring Manager,
 
-I’m excited to apply for Software Development Engineer roles at your organization. I bring hands-on experience shipping scalable fintech products, building real-time full-stack platforms, and contributing to applied research.
+I am writing to express my interest in the Software Development Engineer role at your organization. With hands-on experience in building scalable backends, latency-optimized real-time systems, and production-grade fintech workflows, I bring the technical depth and execution needed for fast-moving engineering teams.
 
-Core Skills:
-C++, Node.js, Next.js, React, TypeScript, MongoDB, Redis, Socket.IO, REST APIs, OAuth2/JWT, SQL, Real-Time Systems, LLM Integration
+In my current role at FNZ Group (FinTech), I contribute to APAC and UK onboarding pipelines, where I:
 
-Professional Experience:
-FNZ Group — Automated client onboarding for APAC/UK, building 100+ API integrations and backend workflows, reducing onboarding effort by ~70%.
-Curtis Bank (via FNZ) — Streamlined AI-powered workflows with rule-chaining and reliability improvements, decreasing manual work by ~30%.
+Automated 70% of client onboarding using 100+ REST/SOAP API integrations, reducing latency by 25% and defects by 35%
 
-Key Projects:
+Delivered 30+ production workflows powering KYC, account creation, and financial rule validation
+
+Integrated AI-driven rule generation to reduce configuration effort by 30%
+
+Improved system throughput by optimizing DB queries, caching layers, and workflow orchestration under load
+
+Beyond FNZ, I’ve built multiple full-stack platforms that demonstrate my ability to design scalable architectures end-to-end:
 
 Bidly — Real-Time Service Bidding Platform
-Full-stack Next.js + Node.js with role-based dashboards, JWT-secured routes, and Socket.IO for live updates. Achieved sub-200 ms API responses; implemented MongoDB TTL for auto-purging stale data; designed roadmap for LLM-powered search.
 
-TradeLab — Stock Trading Simulation
-Real-time trading app with live price feeds, instant P&L, atomic transaction flows, and Redis caching to cut API calls by ~65%. Delivered <100 ms dashboard loads, robust WebSocket updates, and secure auth.
+A production-ready service marketplace built with Next.js, Node.js, MongoDB, Redis, and Socket.IO, featuring role-based dashboards, secure JWT routes, and real-time bid streams using Redis Pub/Sub.
+Achieved sub-800 ms event latency and reduced DB read load by 40% via indexed queries, bid snapshots, and server-side caching.
 
-SwipeHire — Skills-First Job Matching Platform
-Tinder-style matching for candidates and recruiters with skills-tagged profiles, chat, and analytics. Built with Next.js + TypeScript, secure auth, and real-time notifications; designed scalable APIs and data models to support ML-driven candidate ranking.
+SwipeHire — Skills-Based Job Matching Platform
 
-Select Achievements:
-• Best Employee Award at FNZ
-• 1,000+ DSA problems solved
-• Mentored 300+ students (C++/DSA)
-• National RoboCup Jr. finalist; ISRO Space Kidz Challenge finalist
-• Co-author, Springer LNNS (Scopus): Parkinson’s detection via speech
+A Tinder-style recruiting system with swipes, real-time matching, and secure chat.
+Engineered a high-performance matching engine using MongoDB compound indexes and Redis sorted sets, reducing match detection to <50 ms.
+Implemented role-based access control, authenticated routes, and scalable APIs designed for ML-driven ranking.
 
-I’m confident in C++, Node.js, React, REST API design, and building scalable backends. I thrive in engineering-driven teams and can contribute from day one.
+Coding Ninjas — Code Solutions Assistant
 
-Thank you for your time—I’d love to discuss how I can add value to your SDE team.
+Mentored 300+ learners in C++/DSA debugging with a 4.7/5 rating and resolved 1,000+ technical queries involving memory issues, algorithmic inefficiencies, and optimizations.
 
-Current CTC- 15LPA
-Required CTC- 22LPA
-total years of experience - 6 months
-Internship experience - 1y
-Notice period - 2 months
+I have strong expertise in:
 
-Best regards,
-Ayush Dubey
-ayushdubeymanu@gmail.com
-+91-9560752808
+C++, Node.js, React, TypeScript, MongoDB, Redis, Socket.IO
 
-Resume: https://drive.google.com/file/d/1YfYFLnAHNhHUKdHZgunr29s8G9hOApps/view?usp=drivesdk
+REST API design, workflow automation, concurrency optimization
+
+LLM integration, caching strategies, real-time architectures
+
+I thrive in engineering-driven teams and enjoy designing systems that are not only functional but fast, reliable, and scalable. I am confident that my experience in fintech automation, backend engineering, real-time systems, and end-to-end product development will allow me to contribute effectively from day one.
+
+Current CTC: 15 LPA
+Experience: 8 months full-time + 1 year internship
+Notice Period: 2 months
+
+You can review my updated resume here:
+Resume: https://drive.google.com/file/d/1YtP6-jhEVN9LT9sFJH1F_0SYOFxvmVEX/view?usp=drive_link
 
 LinkedIn: https://linkedin.com/in/ayush-dubey-399a1a231
 
 LeetCode: https://leetcode.com/u/ayushdubeymanu0786/
+
+I would appreciate the opportunity to discuss how I can bring value to your SDE team. Thank you for your time and consideration.
+
+Best regards,
+Ayush Dubey
+ayushdubeymanu@gmail.com
+
++91-9560752808
