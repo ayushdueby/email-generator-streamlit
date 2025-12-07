@@ -1,56 +1,26 @@
 Dear Hiring Manager,
 
-I am writing to express my interest in the Software Development Engineer role at your organization. With hands-on experience in building scalable backends, latency-optimized real-time systems, and production-grade fintech workflows, I bring the technical depth and execution needed for fast-moving engineering teams.
+I am applying for the Software Development Engineer role. 
 
-In my current role at FNZ Group (FinTech), I contribute to APAC and UK onboarding pipelines, where I:
+I have 8 months of experience at FNZ Group (FinTech), where I automated 70% of client onboarding using 100+ REST/SOAP APIs, reduced latency by 25%, delivered 30+ financial workflows, and integrated AI-driven rule generation that cut manual effort by 30%.
 
-Automated 70% of client onboarding using 100+ REST/SOAP API integrations, reducing latency by 25% and defects by 35%
+I’ve built scalable real-time systems such as:
 
-Delivered 30+ production workflows powering KYC, account creation, and financial rule validation
+Bidly — real-time bidding platform (Next.js, Node.js, Redis, Socket.IO) with sub-800 ms events and 40% reduced DB load.
 
-Integrated AI-driven rule generation to reduce configuration effort by 30%
+SwipeHire — job-matching platform with <50 ms match detection using MongoDB compound indexes and Redis.
 
-Improved system throughput by optimizing DB queries, caching layers, and workflow orchestration under load
+I also mentored 300+ students (C++/DSA) with a 4.7/5 rating during my Coding Ninjas role.
 
-Beyond FNZ, I’ve built multiple full-stack platforms that demonstrate my ability to design scalable architectures end-to-end:
+My strengths include backend development, API design, real-time systems, caching, and scalable architectures across Node.js, React, TypeScript, MongoDB, Redis, and WebSockets.
 
-Bidly — Real-Time Service Bidding Platform
+I am confident I can contribute quickly to your engineering team.
 
-A production-ready service marketplace built with Next.js, Node.js, MongoDB, Redis, and Socket.IO, featuring role-based dashboards, secure JWT routes, and real-time bid streams using Redis Pub/Sub.
-Achieved sub-800 ms event latency and reduced DB read load by 40% via indexed queries, bid snapshots, and server-side caching.
-
-SwipeHire — Skills-Based Job Matching Platform
-
-A Tinder-style recruiting system with swipes, real-time matching, and secure chat.
-Engineered a high-performance matching engine using MongoDB compound indexes and Redis sorted sets, reducing match detection to <50 ms.
-Implemented role-based access control, authenticated routes, and scalable APIs designed for ML-driven ranking.
-
-Coding Ninjas — Code Solutions Assistant
-
-Mentored 300+ learners in C++/DSA debugging with a 4.7/5 rating and resolved 1,000+ technical queries involving memory issues, algorithmic inefficiencies, and optimizations.
-
-I have strong expertise in:
-
-C++, Node.js, React, TypeScript, MongoDB, Redis, Socket.IO
-
-REST API design, workflow automation, concurrency optimization
-
-LLM integration, caching strategies, real-time architectures
-
-I thrive in engineering-driven teams and enjoy designing systems that are not only functional but fast, reliable, and scalable. I am confident that my experience in fintech automation, backend engineering, real-time systems, and end-to-end product development will allow me to contribute effectively from day one.
-
-Current CTC: 15 LPA
-Experience: 8 months full-time + 1 year internship
-Notice Period: 2 months
-
-You can review my updated resume here:
-Resume: https://drive.google.com/file/d/1YtP6-jhEVN9LT9sFJH1F_0SYOFxvmVEX/view?usp=drive_link
-
+Resume: https://drive.google.com/file/d/1YtP6-jhEVN9LT9sFJH1F_0SYOFxvmVEX/view
 LinkedIn: https://linkedin.com/in/ayush-dubey-399a1a231
-
 LeetCode: https://leetcode.com/u/ayushdubeymanu0786/
 
-I would appreciate the opportunity to discuss how I can bring value to your SDE team. Thank you for your time and consideration.
+Current CTC: 15 LPA | Notice: 2 months
 
 Best regards,
 Ayush Dubey
