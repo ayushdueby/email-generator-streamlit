@@ -1,29 +1,44 @@
 Dear Hiring Manager,
 
-I am applying for the Software Development Engineer role. 
+I hope you are doing well.
 
-I have 8 months of experience at FNZ Group (FinTech), where I automated 70% of client onboarding using 100+ REST/SOAP APIs, reduced latency by 25%, delivered 30+ financial workflows, and integrated AI-driven rule generation that cut manual effort by 30%.
+My name is Ayush Dubey, and I am currently working as a Software Developer in the FinTech domain.
 
-I’ve built scalable real-time systems such as:
+Professional Experience (FNZ Group – FinTech)
+• 1+ year of backend development experience in enterprise banking platforms
+• Contributed to large-scale projects including IHUB, Curtis Bank, and APAC client platforms
+• Delivered 30+ production-grade financial workflows used by live banking clients
+• Integrated 100+ REST & SOAP APIs for onboarding and financial processing
+• Reduced onboarding latency by 25% through backend optimization and caching
+• Worked across SDLC, Jira, testing cycles, and production releases
 
-Bidly: real-time bidding platform (Next.js, Node.js, Redis, Socket.IO) with sub-800 ms events and 40% reduced DB load.
+Technical Skills
+Languages: Java, C++, SQL
+Frameworks: Spring Boot, Spring MVC, Spring Security, Spring JVM, Spring Hibernate
+Backend: REST API design, clean architecture, JWT, RBAC
+Databases & Caching: MongoDB, Redis
+Tools: Git, Postman, Jira
 
-SwipeHire: job-matching platform with <50 ms match detection using MongoDB compound indexes and Redis.
+Key Highlights
+• Improved system reliability and reduced defects by 35%
+• Research paper published at ICCCNet 2025 (Springer LNNS, Scopus Indexed)
+• AIR 2 – RoboCup Jr. India | AIR 5 – ISRO Space Kidz
+• Solved 1500+ DSA problems (LeetCode, GFG)
+• Mentored 300+ students in C++ & DSA
 
-I also mentored 300+ students (C++/DSA) with a 4.7/5 rating during my Coding Ninjas role.
+Request
+Given my background in backend development and enterprise systems, I would be grateful if you could please consider me for any suitable Software Developer / Backend Engineer opportunities.
 
-My strengths include backend development, API design, real-time systems, caching, and scalable architectures across Node.js, React, TypeScript, MongoDB, Redis, and WebSockets.
+I have attached my resume and also shared the link below for quick reference.
+Please let me know if any additional information is required from my side.
 
-I am confident I can contribute quickly to your engineering team.
+Thank you for your time and support.
 
-Resume: https://drive.google.com/file/d/1YtP6-jhEVN9LT9sFJH1F_0SYOFxvmVEX/view
-LinkedIn: https://linkedin.com/in/ayush-dubey-399a1a231
-LeetCode: https://leetcode.com/u/ayushdubeymanu0786/
-
-Current CTC: 15 LPA | Notice: 2 months
-
-Best regards,
+Warm regards,
 Ayush Dubey
-ayushdubeymanu@gmail.com
+Software Developer
 
-+91-9560752808
+Email: ayushdubeymanu@gmail.com
+Phone No.: +91-9560752808
+LinkedIn: https://linkedin.com/in/ayush-dubey-399a1a231
+Resume: https://drive.google.com/file/d/1YtP6-jhEVN9LT9sFJH1F_0SYOFxvmVEX/view
