@@ -1,44 +1,25 @@
-Dear Hiring Manager,
+Hi,
 
-I hope you are doing well.
+I am a Software Developer with hands-on experience in building high-performance backend systems using Java, Spring Boot, Microservices, and real-time architectures. I currently work in a FinTech environment where I design and optimize low-latency REST and WebSocket APIs, integrate distributed services, and work on production systems serving large-scale transaction workflows.
 
-My name is Ayush Dubey, and I am currently working as a Software Developer in the FinTech domain.
+My background includes:
 
-Professional Experience (FNZ Group – FinTech)
-• 1+ year of backend development experience in enterprise banking platforms
-• Contributed to large-scale projects including IHUB, Curtis Bank, and APAC client platforms
-• Delivered 30+ production-grade financial workflows used by live banking clients
-• Integrated 100+ REST & SOAP APIs for onboarding and financial processing
-• Reduced onboarding latency by 25% through backend optimization and caching
-• Worked across SDLC, Jira, testing cycles, and production releases
+* Building concurrent, multithreaded systems (matching engines, real-time streaming, in-memory processing)
+* Developing scalable Spring Boot microservices with JPA, Hibernate, Redis, MongoDB, and SQL
+* Designing clean, versioned, idempotent APIs and performance-critical components
+* Integrating AI capabilities (Spring AI, LLMs, embeddings, vector search) into backend platforms
 
-Technical Skills
-Languages: Java, C++, SQL
-Frameworks: Spring Boot, Spring MVC, Spring Security, Spring JVM, Spring Hibernate
-Backend: REST API design, clean architecture, JWT, RBAC
-Databases & Caching: MongoDB, Redis
-Tools: Git, Postman, Jira
+I have worked on systems handling 100K+ users, optimized API latency to sub-150ms, and built a full low-latency stock exchange matching engine supporting 10K+ orders/sec with price-time priority and real-time order book streaming.
 
-Key Highlights
-• Improved system reliability and reduced defects by 35%
-• Research paper published at ICCCNet 2025 (Springer LNNS, Scopus Indexed)
-• AIR 2 – RoboCup Jr. India | AIR 5 – ISRO Space Kidz
-• Solved 1500+ DSA problems (LeetCode, GFG)
-• Mentored 300+ students in C++ & DSA
+I am actively seeking challenging backend engineering roles where system design, performance, and reliability truly matter. I would welcome the opportunity to explore how my experience can contribute to building scalable, mission-critical platforms.
 
-Request
-Given my background in backend development and enterprise systems, I would be grateful if you could please consider me for any suitable Software Developer / Backend Engineer opportunities.
+Resume: https://drive.google.com/file/d/18t1Z8dWB2lVPDvyr84AGLCaqQyGNF2K0/view?usp=sharing
 
-I have attached my resume and also shared the link below for quick reference.
-Please let me know if any additional information is required from my side.
+Looking forward to connecting.
 
-Thank you for your time and support.
-
-Warm regards,
+Best regards,
 Ayush Dubey
-Software Developer
-
+Java Backend Engineer | Spring Boot
 Email: ayushdubeymanu@gmail.com
-Phone No.: +91-9560752808
-LinkedIn: https://linkedin.com/in/ayush-dubey-399a1a231
-Resume: https://drive.google.com/file/d/1YtP6-jhEVN9LT9sFJH1F_0SYOFxvmVEX/view
+Phone: +91-9560752808
+LinkedIn: https://www.linkedin.com/in/ayush-dubey-399a1a231
